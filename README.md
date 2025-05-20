@@ -26,9 +26,10 @@ Você precisa ter o **GCC** instalado!!
 Depois, siga os passos:
 
 1. Abra o terminal (PowerShell ou CMD)
+
 2. Vá até a pasta onde está o arquivo `.c`. Por exemplo:
 
-cd C:\Users\SeuNome\Desktop\Estudo
+cd C:\Users\SeuPC\Downloads
 
 3. Digite este comando para compilar o código:
 
